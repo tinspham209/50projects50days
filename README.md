@@ -4,16 +4,19 @@
 
 ### Functions
 
-- HTML/CSS
-- JavaScript
+- 50 Project in 50 days for learning DOM Manipulation
 
 ### Tech-Stack
+
+- HTML/CSS
+- JavaScript
 
 ### Project
 
 |  #  | Project         | Repository                                                                                   |
 | :-: | --------------- | -------------------------------------------------------------------------------------------- |
 | 01  | Expanding Cards | [Repository](https://github.com/tinspham209/50projects50days/tree/master/01-expanding-cards) |
+| 02  | Progress Steps  | [Repository](https://github.com/tinspham209/50projects50days/tree/master/02-progress-steps)  |
 
 ### After this project
 
