@@ -19,6 +19,7 @@
 | 02  | Progress Steps         | [Repository](https://github.com/tinspham209/50projects50days/tree/master/02-progress-steps)         |
 | 03  | Rotating Nav Animation | [Repository](https://github.com/tinspham209/50projects50days/tree/master/03-rotating-nav-animation) |
 | 04  | Hidden Search Widget   | [Repository](https://github.com/tinspham209/50projects50days/tree/master/04-hidden-search-widget)   |
+| 05  | Blurry Loading         | [Repository](https://github.com/tinspham209/50projects50days/tree/master/05-blurry-loading)         |
 
 ### After this project
 
