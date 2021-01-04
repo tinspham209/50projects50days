@@ -22,6 +22,7 @@
 | 05  | Blurry Loading         | [Repository](https://github.com/tinspham209/50projects50days/tree/master/05-blurry-loading)         |
 | 06  | Scroll Animation       | [Repository](https://github.com/tinspham209/50projects50days/tree/master/06-scroll-animation)       |
 | 07  | Split Landing Page     | [Repository](https://github.com/tinspham209/50projects50days/tree/master/07-split-landing-page)     |
+| 08  | Form Input Wave        | [Repository](https://github.com/tinspham209/50projects50days/tree/master/08-form-input-wave)        |
 
 ### After this project
 
