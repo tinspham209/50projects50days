@@ -25,5 +25,6 @@
 | 08  | Form Input Wave        | [Repository](https://github.com/tinspham209/50projects50days/tree/master/08-form-input-wave)        |
 | 09  | Sound Board            | [Repository](https://github.com/tinspham209/50projects50days/tree/master/09-sound-board)            |
 | 10  | Dad Jokes              | [Repository](https://github.com/tinspham209/50projects50days/tree/master/10-dad-jokes)              |
+| 11  | Event KeyCodes         | [Repository](https://github.com/tinspham209/50projects50days/tree/master/11-event-keycodes)         |
 
 ### After this project
