@@ -24,5 +24,6 @@
 | 07  | Split Landing Page     | [Repository](https://github.com/tinspham209/50projects50days/tree/master/07-split-landing-page)     |
 | 08  | Form Input Wave        | [Repository](https://github.com/tinspham209/50projects50days/tree/master/08-form-input-wave)        |
 | 09  | Sound Board            | [Repository](https://github.com/tinspham209/50projects50days/tree/master/09-sound-board)            |
+| 10  | Dad Jokes              | [Repository](https://github.com/tinspham209/50projects50days/tree/master/10-dad-jokes)              |
 
 ### After this project
