@@ -27,5 +27,6 @@
 | 10  | Dad Jokes              | [Repository](https://github.com/tinspham209/50projects50days/tree/master/10-dad-jokes)              |
 | 11  | Event KeyCodes         | [Repository](https://github.com/tinspham209/50projects50days/tree/master/11-event-keycodes)         |
 | 12  | FAQ Collapse           | [Repository](https://github.com/tinspham209/50projects50days/tree/master/12-faq-collapse)           |
+| 13  | Random Choice Picker   | [Repository](https://github.com/tinspham209/50projects50days/tree/master/13-random-choice-picker)   |
 
 ### After this project
