@@ -1,4 +1,4 @@
-# Mini Project: Form Input Wave
+# Mini Project: Animated Navigation
 
 ## Date: 6 - Jan - 2021
 

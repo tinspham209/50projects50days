@@ -1,6 +1,6 @@
-# Mini Project: Form Input Wave
+# Mini Project: Drink Water
 
-## Date: 6 - Jan - 2021
+## Date: 18 - Jan - 2021
 
 ### Screenshot
 
