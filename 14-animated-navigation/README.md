@@ -1,6 +1,6 @@
 # Mini Project: Animated Navigation
 
-## Date: 6 - Jan - 2021
+## Date: 11 - Jan - 2021
 
 ### Screenshot
 

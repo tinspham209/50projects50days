@@ -13,24 +13,24 @@
 
 ### Project
 
-|  #  | Project                | Repository                                                                                          |
-| :-: | ---------------------- | --------------------------------------------------------------------------------------------------- |
-| 01  | Expanding Cards        | [Repository](https://github.com/tinspham209/50projects50days/tree/master/01-expanding-cards)        |
-| 02  | Progress Steps         | [Repository](https://github.com/tinspham209/50projects50days/tree/master/02-progress-steps)         |
-| 03  | Rotating Nav Animation | [Repository](https://github.com/tinspham209/50projects50days/tree/master/03-rotating-nav-animation) |
-| 04  | Hidden Search Widget   | [Repository](https://github.com/tinspham209/50projects50days/tree/master/04-hidden-search-widget)   |
-| 05  | Blurry Loading         | [Repository](https://github.com/tinspham209/50projects50days/tree/master/05-blurry-loading)         |
-| 06  | Scroll Animation       | [Repository](https://github.com/tinspham209/50projects50days/tree/master/06-scroll-animation)       |
-| 07  | Split Landing Page     | [Repository](https://github.com/tinspham209/50projects50days/tree/master/07-split-landing-page)     |
-| 08  | Form Input Wave        | [Repository](https://github.com/tinspham209/50projects50days/tree/master/08-form-input-wave)        |
-| 09  | Sound Board            | [Repository](https://github.com/tinspham209/50projects50days/tree/master/09-sound-board)            |
-| 10  | Dad Jokes              | [Repository](https://github.com/tinspham209/50projects50days/tree/master/10-dad-jokes)              |
-| 11  | Event KeyCodes         | [Repository](https://github.com/tinspham209/50projects50days/tree/master/11-event-keycodes)         |
-| 12  | FAQ Collapse           | [Repository](https://github.com/tinspham209/50projects50days/tree/master/12-faq-collapse)           |
-| 13  | Random Choice Picker   | [Repository](https://github.com/tinspham209/50projects50days/tree/master/13-random-choice-picker)   |
-| 14  | Animated Navigation    | [Repository](https://github.com/tinspham209/50projects50days/tree/master/14-animated-navigation)    |
-| 15  | Incrementing Counter   | [Repository](https://github.com/tinspham209/50projects50days/tree/master/15-incrementing-counter)   |
-| 16  | Drink Water            | [Repository](https://github.com/tinspham209/50projects50days/tree/master/16-drink-water)            |
+|  #  | Date      | Project                | Repository                                                                                          |
+| :-: | --------- | ---------------------- | --------------------------------------------------------------------------------------------------- |
+| 01  | 09-Dec-20 | Expanding Cards        | [Repository](https://github.com/tinspham209/50projects50days/tree/master/01-expanding-cards)        |
+| 02  | 09-Dec-20 | Progress Steps         | [Repository](https://github.com/tinspham209/50projects50days/tree/master/02-progress-steps)         |
+| 03  | 09-Dec-20 | Rotating Nav Animation | [Repository](https://github.com/tinspham209/50projects50days/tree/master/03-rotating-nav-animation) |
+| 04  | 12-Dec-20 | Hidden Search Widget   | [Repository](https://github.com/tinspham209/50projects50days/tree/master/04-hidden-search-widget)   |
+| 05  | 12-Dec-20 | Blurry Loading         | [Repository](https://github.com/tinspham209/50projects50days/tree/master/05-blurry-loading)         |
+| 06  | 12-Dec-20 | Scroll Animation       | [Repository](https://github.com/tinspham209/50projects50days/tree/master/06-scroll-animation)       |
+| 07  | 04-Jan-21 | Split Landing Page     | [Repository](https://github.com/tinspham209/50projects50days/tree/master/07-split-landing-page)     |
+| 08  | 04-Jan-21 | Form Input Wave        | [Repository](https://github.com/tinspham209/50projects50days/tree/master/08-form-input-wave)        |
+| 09  | 04-Jan-21 | Sound Board            | [Repository](https://github.com/tinspham209/50projects50days/tree/master/09-sound-board)            |
+| 10  | 06-Jan-21 | Dad Jokes              | [Repository](https://github.com/tinspham209/50projects50days/tree/master/10-dad-jokes)              |
+| 11  | 06-Jan-21 | Event KeyCodes         | [Repository](https://github.com/tinspham209/50projects50days/tree/master/11-event-keycodes)         |
+| 12  | 06-Jan-21 | FAQ Collapse           | [Repository](https://github.com/tinspham209/50projects50days/tree/master/12-faq-collapse)           |
+| 13  | 11-Jan-21 | Random Choice Picker   | [Repository](https://github.com/tinspham209/50projects50days/tree/master/13-random-choice-picker)   |
+| 14  | 11-Jan-21 | Animated Navigation    | [Repository](https://github.com/tinspham209/50projects50days/tree/master/14-animated-navigation)    |
+| 15  | 11-Jan-21 | Incrementing Counter   | [Repository](https://github.com/tinspham209/50projects50days/tree/master/15-incrementing-counter)   |
+| 16  | 18-Jan-21 | Drink Water            | [Repository](https://github.com/tinspham209/50projects50days/tree/master/16-drink-water)            |
 
 ### Commit
 
