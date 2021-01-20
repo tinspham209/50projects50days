@@ -31,7 +31,7 @@
 | 14  | 11-Jan-21 | Animated Navigation    | [Repository](https://github.com/tinspham209/50projects50days/tree/master/14-animated-navigation)    |
 | 15  | 11-Jan-21 | Incrementing Counter   | [Repository](https://github.com/tinspham209/50projects50days/tree/master/15-incrementing-counter)   |
 | 16  | 18-Jan-21 | Drink Water            | [Repository](https://github.com/tinspham209/50projects50days/tree/master/16-drink-water)            |
-| 17  | 20-Jan-21 | Movie App              | [Repository](https://github.com/tinspham209/50projects50days/tree/master/16-drink-water)            |
+| 17  | 20-Jan-21 | Movie App              | [Repository](https://github.com/tinspham209/50projects50days/tree/master/17-movie-app)              |
 
 ### Commit
 
