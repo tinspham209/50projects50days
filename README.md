@@ -1,15 +1,17 @@
-# Project: 50 Projects in 50 days
+# Project: 50 Projects for learn HTML/CSS, JS Dom
 
 ## Date: 9 - Dec - 2020
 
 ### Functions
 
-- 50 Project in 50 days for learning DOM Manipulation
+- 50 Project for learning HTML/CSS, JS DOM Manipulation
+- create Interesting projects
 
 ### Tech-Stack
 
 - HTML/CSS
 - JavaScript
+- API
 
 ### Project
 
@@ -32,6 +34,7 @@
 | 15  | 11-Jan-21 | Incrementing Counter   | [Repository](https://github.com/tinspham209/50projects50days/tree/master/15-incrementing-counter)   |
 | 16  | 18-Jan-21 | Drink Water            | [Repository](https://github.com/tinspham209/50projects50days/tree/master/16-drink-water)            |
 | 17  | 20-Jan-21 | Movie App              | [Repository](https://github.com/tinspham209/50projects50days/tree/master/17-movie-app)              |
+| 18  | 25-Jan-21 | Background Slider      | [Repository](https://github.com/tinspham209/50projects50days/tree/master/18-background-slider)      |
 
 ### Commit
 
