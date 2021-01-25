@@ -35,6 +35,7 @@
 | 16  | 18-Jan-21 | Drink Water            | [Repository](https://github.com/tinspham209/50projects50days/tree/master/16-drink-water)            |
 | 17  | 20-Jan-21 | Movie App              | [Repository](https://github.com/tinspham209/50projects50days/tree/master/17-movie-app)              |
 | 18  | 25-Jan-21 | Background Slider      | [Repository](https://github.com/tinspham209/50projects50days/tree/master/18-background-slider)      |
+| 19  | 25-Jan-21 | Theme Clock            | [Repository](https://github.com/tinspham209/50projects50days/tree/master/19-theme-clock)            |
 
 ### Commit
 
