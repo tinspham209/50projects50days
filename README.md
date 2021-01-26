@@ -1,17 +1,17 @@
-# Project: 50 Projects for learn HTML/CSS, JS Dom
+# Project: 50 Projects for learn, sharpen your HTML/CSS, JS Dom Skills
 
 ## Date: 9 - Dec - 2020
 
 ### Functions
 
-- 50 Project for learning HTML/CSS, JS DOM Manipulation
-- create Interesting projects
+- 50 unique mini-projects to sharpen your HTML, CSS & JavaScript skills
+- create interesting projects
 
 ### Tech-Stack
 
 - HTML/CSS
 - JavaScript
-- API
+- Fetch API
 
 ### Project
 
