@@ -40,6 +40,7 @@
 | 21  | 26-Jan-21 | Drag & Drop            | [Repository](https://github.com/tinspham209/50projects50days/tree/master/21-drag-n-drop)            |
 | 22  | 26-Jan-21 | Drawing App            | [Repository](https://github.com/tinspham209/50projects50days/tree/master/22-drawing-app)            |
 | 23  | 28-Jan-21 | Kinetic Loader         | [Repository](https://github.com/tinspham209/50projects50days/tree/master/23-kinetic-loader)         |
+| 24  | 28-Jan-21 | Content Placeholder    | [Repository](https://github.com/tinspham209/50projects50days/tree/master/24-content-placeholder)    |
 
 ### Commit
 
