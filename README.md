@@ -2,6 +2,8 @@
 
 ## Date: 9 - Dec - 2020
 
+<img src="./screenshot.jpg" alt="Screenshot"/>
+
 ### Functions
 
 - 50 unique mini-projects to sharpen your HTML, CSS & JavaScript skills
