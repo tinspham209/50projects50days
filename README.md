@@ -44,6 +44,7 @@
 | 23  | 28-Jan-21 | Kinetic Loader         | [Repository](https://github.com/tinspham209/50projects50days/tree/master/23-kinetic-loader)         |
 | 24  | 28-Jan-21 | Content Placeholder    | [Repository](https://github.com/tinspham209/50projects50days/tree/master/24-content-placeholder)    |
 | 25  | 03-Feb-21 | Sticky Navigation      | [Repository](https://github.com/tinspham209/50projects50days/tree/master/25-sticky-navigation)      |
+| 26  | 03-Feb-21 | Double Vertical Slider | [Repository](https://github.com/tinspham209/50projects50days/tree/master/26-double-vertical-slider) |
 
 ### Commit
 
