@@ -45,7 +45,7 @@
 | 24  | 28-Jan-21 | Content Placeholder    | [Repository](https://github.com/tinspham209/50projects50days/tree/master/24-content-placeholder)    |
 | 25  | 03-Feb-21 | Sticky Navigation      | [Repository](https://github.com/tinspham209/50projects50days/tree/master/25-sticky-navigation)      |
 | 26  | 03-Feb-21 | Double Vertical Slider | [Repository](https://github.com/tinspham209/50projects50days/tree/master/26-double-vertical-slider) |
-| 27  | 24-Feb-21 | Toast Notification     | [Repository](https://github.com/tinspham209/50projects50days/tree/master/227-toast-notification)    |
+| 27  | 24-Feb-21 | Toast Notification     | [Repository](https://github.com/tinspham209/50projects50days/tree/master/27-toast-notification)     |
 
 ### Commit
 
