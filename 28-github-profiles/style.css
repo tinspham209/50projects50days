@@ -108,3 +108,15 @@ body {
   margin-right: 5px;
   margin-bottom: 5px;
 }
+
+@media (max-width: 500px) {
+  .card {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .user-form {
+    max-width: 400px;
+    width: 90vw;
+  }
+}
