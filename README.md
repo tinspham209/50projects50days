@@ -47,6 +47,7 @@
 | 26  | 03-Feb-21 | Double Vertical Slider | [Repository](https://github.com/tinspham209/50projects50days/tree/master/26-double-vertical-slider) |
 | 27  | 24-Feb-21 | Toast Notification     | [Repository](https://github.com/tinspham209/50projects50days/tree/master/27-toast-notification)     |
 | 28  | 24-Feb-21 | Github Profiles        | [Repository](https://github.com/tinspham209/50projects50days/tree/master/28-github-profiles)        |
+| 29  | 24-Feb-21 | Double Click Heart     | [Repository](https://github.com/tinspham209/50projects50days/tree/master/29-double-click-heart)     |
 
 ### Commit
 
