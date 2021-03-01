@@ -13,12 +13,14 @@
 
 - HTML/CSS
 - JavaScript
+- Animation
 - Fetch API
 
 ### Project
 
 |  #  | Date      | Project                | Repository                                                                                          |
 | :-: | --------- | ---------------------- | --------------------------------------------------------------------------------------------------- |
+| 00  | 09-Dec-20 | Project Sample         | [Repository](https://github.com/tinspham209/50projects50days/tree/master/00-project-sample)         |
 | 01  | 09-Dec-20 | Expanding Cards        | [Repository](https://github.com/tinspham209/50projects50days/tree/master/01-expanding-cards)        |
 | 02  | 09-Dec-20 | Progress Steps         | [Repository](https://github.com/tinspham209/50projects50days/tree/master/02-progress-steps)         |
 | 03  | 09-Dec-20 | Rotating Nav Animation | [Repository](https://github.com/tinspham209/50projects50days/tree/master/03-rotating-nav-animation) |
@@ -47,7 +49,8 @@
 | 26  | 03-Feb-21 | Double Vertical Slider | [Repository](https://github.com/tinspham209/50projects50days/tree/master/26-double-vertical-slider) |
 | 27  | 24-Feb-21 | Toast Notification     | [Repository](https://github.com/tinspham209/50projects50days/tree/master/27-toast-notification)     |
 | 28  | 24-Feb-21 | Github Profiles        | [Repository](https://github.com/tinspham209/50projects50days/tree/master/28-github-profiles)        |
-| 29  | 24-Feb-21 | Double Click Heart     | [Repository](https://github.com/tinspham209/50projects50days/tree/master/29-double-click-heart)     |
+| 29  | 28-Feb-21 | Double Click Heart     | [Repository](https://github.com/tinspham209/50projects50days/tree/master/29-double-click-heart)     |
+| 30  | 01-Mar-21 | Auto Text Effect       | [Repository](https://github.com/tinspham209/50projects50days/tree/master/30-auto-text-effect)       |
 
 ### Commit
 
