@@ -51,6 +51,7 @@
 | 28  | 24-Feb-21 | Github Profiles        | [Repository](https://github.com/tinspham209/50projects50days/tree/master/28-github-profiles)        |
 | 29  | 28-Feb-21 | Double Click Heart     | [Repository](https://github.com/tinspham209/50projects50days/tree/master/29-double-click-heart)     |
 | 30  | 01-Mar-21 | Auto Text Effect       | [Repository](https://github.com/tinspham209/50projects50days/tree/master/30-auto-text-effect)       |
+| 31  | 01-Mar-21 | Good, Cheap, Fast      | [Repository](https://github.com/tinspham209/50projects50days/tree/master/31-good-cheap-fast)        |
 
 ### Commit
 
