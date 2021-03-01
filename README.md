@@ -53,6 +53,7 @@
 | 30  | 01-Mar-21 | Auto Text Effect       | [Repository](https://github.com/tinspham209/50projects50days/tree/master/30-auto-text-effect)       |
 | 31  | 01-Mar-21 | Good, Cheap, Fast      | [Repository](https://github.com/tinspham209/50projects50days/tree/master/31-good-cheap-fast)        |
 | 32  | 01-Mar-21 | Notes App              | [Repository](https://github.com/tinspham209/50projects50days/tree/master/32-notes-app)              |
+| 33  | 01-Mar-21 | Password Generator     | [Repository](https://github.com/tinspham209/50projects50days/tree/master/33-password-generator)     |
 
 ### Commit
 
