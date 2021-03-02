@@ -54,6 +54,7 @@
 | 31  | 01-Mar-21 | Good, Cheap, Fast      | [Repository](https://github.com/tinspham209/50projects50days/tree/master/31-good-cheap-fast)        |
 | 32  | 01-Mar-21 | Notes App              | [Repository](https://github.com/tinspham209/50projects50days/tree/master/32-notes-app)              |
 | 33  | 01-Mar-21 | Password Generator     | [Repository](https://github.com/tinspham209/50projects50days/tree/master/33-password-generator)     |
+| 34  | 02-Mar-21 | Animated Countdown     | [Repository](https://github.com/tinspham209/50projects50days/tree/master/34-animated-countdown)     |
 
 ### Commit
 
