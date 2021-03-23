@@ -56,6 +56,7 @@
 | 33  | 01-Mar-21 | Password Generator     | [Repository](https://github.com/tinspham209/50projects50days/tree/master/33-password-generator)     |
 | 34  | 02-Mar-21 | Animated Countdown     | [Repository](https://github.com/tinspham209/50projects50days/tree/master/34-animated-countdown)     |
 | 35  | 23-Mar-21 | Image Carousel         | [Repository](https://github.com/tinspham209/50projects50days/tree/master/35-image-carousel)         |
+| 36  | 23-Mar-21 | Hover Board            | [Repository](https://github.com/tinspham209/50projects50days/tree/master/36-hoverboard)             |
 
 ### Commit
 
